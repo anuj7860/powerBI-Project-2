@@ -13,9 +13,9 @@ Based on this information,
 
 we can see that Power BI is being used to analyze sales data. The model allows users to filter sales data by state, supervisor, brand, category, customer, product, and order date.
 
-It is unclear from the image what the specific goals of the analysis are. However, the model suggests that the user is interested in understanding sales trends, performance by state, and the performance of individual supervisors.
+the model suggests that the user is interested in understanding sales trends, performance by state, and the performance of individual supervisors.
 
-Here are some potential reports that could be created from this model:
+# Here are some potential reports that could be created from this model:
 
 A report showing total sales by state.
 A report showing sales trends over time.

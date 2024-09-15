@@ -23,3 +23,15 @@ A report showing the top-performing supervisors.
 A report showing the performance of different product categories.
 
 # project visuals :
+
+![Screenshot 2024-09-14 132208](https://github.com/user-attachments/assets/b4e9c3d2-5434-4391-80a3-31f7ed76453c)
+
+![Screenshot 2024-09-14 132219](https://github.com/user-attachments/assets/72d98059-b215-467d-8dc3-b189b774215d)
+
+![Screenshot 2024-09-14 132233](https://github.com/user-attachments/assets/4830a69a-eae3-4c30-887c-d134f836fe80)
+
+![Screenshot 2024-09-14 132243](https://github.com/user-attachments/assets/349d4324-c3f0-465a-9445-687ead205b06)
+
+![Screenshot 2024-09-14 132330](https://github.com/user-attachments/assets/765e5763-74ad-490c-ba91-19c6ebfe4847)
+
+# working :
